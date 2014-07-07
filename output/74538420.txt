@@ -1,0 +1,12 @@
+  name  
+--------
+ boot01
+ bike03
+ ski01
+ bike01
+ bike02
+ boot03
+ ski02
+ boot01
+(8 rows)
+

@@ -1,0 +1,14 @@
+      cust_name       | customer_id |         avg         
+----------------------+-------------+---------------------
+ Coleman Prohaska Jr. |           8 | 57.9350000000000000
+ Donato Rempel        |           1 | 31.2140000000000000
+ Edna Hintz           |           7 | 65.5033333333333333
+ Elta Dicki           |           5 | 62.7233333333333333
+ Evert Pfeffer        |           4 | 41.0600000000000000
+ Hulda Will III       |          10 | 44.7928571428571429
+ Ms. Sofia Rowe       |           3 | 77.5060000000000000
+ Tyrell Von DDS       |           2 |  3.5450000000000000
+ Wilhelmine Huels     |           9 | 22.3900000000000000
+ Zelma Davis          |           6 | 44.8116666666666667
+(10 rows)
+

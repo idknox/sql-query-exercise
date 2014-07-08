@@ -1,0 +1,5 @@
+     name      | amount_total 
+---------------+--------------
+ Evert Pfeffer |       198.47
+(1 row)
+
